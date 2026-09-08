@@ -265,7 +265,7 @@ Reproduce the following block without modification in every last-resort release 
 
 #### 6.3.2 Inbound channels are closed by policy
 
-Disable issues and pull requests on a last-resort release repository, or auto-close them with a template pointing at the steward search and the original project. This is policy rather than a per-release choice. It separates a bounded artifact from an unfunded support desk. Security reports about the release itself route to the SIRT front door like any other report (§10).
+Disable pull requests and restrict issues submission exclusively for regression reports regarding the patch on a last-resort release repository, or auto-close them with a template pointing at the steward search and the original project. This is policy rather than a per-release choice. It separates a bounded artifact from an unfunded support desk. Security reports about the release itself route to the SIRT front door like any other report (§10).
 
 ### 6.4 Release gate: correctness controls
 
