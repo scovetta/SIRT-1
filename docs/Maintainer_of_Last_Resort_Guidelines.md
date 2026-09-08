@@ -463,7 +463,7 @@ Measure the promise the launch made, which is fix delivery, and instrument the f
 - Intermediate-maintainer migrations landed (§8.4), and dependent trees remediated per migration.
 
 **Function-health metrics:**
-- Disputed findings resolved by technical exchange (§5.2.1), split three ways: the maintainer persuaded us, we persuaded the maintainer, the disagreement held. Watch the first count rather than setting a target for it.
+- Disputed findings resolved by technical exchange (§5.2.1), split three ways: the maintainer persuaded us, we persuaded the maintainer, the disagreement held, alongside qualitative maintainer sentiment scores collected post-engagement. Watch the first count rather than setting a target for it.
 - Steward placement rate, and median time from entry to steward confirmation.
 - Engagements open past term. **Target: zero.**
 - Handback latency from verified maintainer contact to completed reclaim (§6.8). Target 14 days or less.
