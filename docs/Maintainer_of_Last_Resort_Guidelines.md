@@ -55,7 +55,7 @@ These extend the Akrites principles into the hard cases. Keep them in view; ever
 - **Everything is embargoed until it isn't.** TLP governs every artifact and every party from intake to Public Disclosure (PD). Non-fix and unresponsiveness do **not** default a case to open.
 - **Document the trail.** Record every contact attempt, maintainer decision, governance approval, and recusal. The record is what makes a later release or disclosure defensible.
 - **How can we help?** A maintainer drowning in report volume is offered help with the volume: triage, patch authorship, coordination, release engineering, for as long as they want it. They are never offered a fork. Do not present a takeover to a responsive maintainer as a form of assistance.
-- **Be respectful to maintainers.** Remember that the least thing we want is to scary maintainer out of the continuous project support. In your communication and outreach follow [Concise Guide for Collaborating with Open Source Projects](https://github.com/gkunz/wg-best-practices-os-developers/blob/main/docs/Concise-Guide-for-Collaborating-with-Open-Source-Projects.md).
+- **Be respectful to maintainers.** Remember that the least thing we want is to scare the maintainer out of the continuous project support. In your communication and outreach follow [Concise Guide for Collaborating with Open Source Projects](https://github.com/gkunz/wg-best-practices-os-developers/blob/main/docs/Concise-Guide-for-Collaborating-with-Open-Source-Projects.md).
 ---
 
 ## 3. The two clocks
