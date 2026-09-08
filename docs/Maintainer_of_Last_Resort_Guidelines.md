@@ -294,7 +294,7 @@ The release must be harder to compromise, and better verified, than the abandone
 
 ### 6.6 Disclosure handling under MoLR
 
-- The fix lands under **synchronized disclosure**. Distros, registries, PSIRTs, and critical-infra partners enter one CVD window per Tiered Disclosure, and the patched release and the advisory publish at PD. No participant gets a head start, Akrites members included.
+- The fix lands under **synchronized disclosure**. Distros, registries, PSIRTs, and critical-infra partners enter one CVD window per Tiered Disclosure, and the patched release and the advisory publish at PD. No participant gets an uncoordinated head start, Akrites members included.
 - Advisory and CVE issue through the appropriate CNA: the Linux Foundation CNA authority per the Akrites charter, or CNA-LR where the project has no CNA and falls outside your scope (§10).
 - **VEX and advisory carry a machine-readable "fixed in a different package" pointer** (§8.1) so downstream tooling routes consumers correctly. A human-readable notice on its own does not discharge the fix-delivery promise.
 
