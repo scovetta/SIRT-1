@@ -124,7 +124,7 @@ The project *wants* to do the right thing. Remove friction, and do not take over
 - Offer to **stand up a private channel**, such as helping them enable GitHub/GitLab private security advisories, or running the embargoed thread inside the SIRT's hardened enclave under TLP:AMBER+STRICT.
 - Offer to **run the coordination overhead**: CVE assignment through the appropriate CNA (§10), advisory drafting, CVSS/CWE/SSVC/EPSS enrichment, VEX generation, distro and downstream notification, and PD messaging support.
 - **Let them keep control and credit.** They approve or revise the patch, they set or negotiate the disclosure date, they own their project's public messaging, and the credit is theirs.
-- **Offer sustained help where the problem is volume.** A maintainer buried under reports gets triage capacity, patch authorship, and release engineering for as long as they will accept it.
+- **Offer sustained help where the problem is volume.** A maintainer buried under reports gets triage capacity, patch authorship, and release engineering for as long as they will accept it. Besides the direct 1-1 support, offer connecting maintainers with communities and foundation mentoring initiatives (e.g., OpenSSF, Linux Foundation Mentorship) and assisting with contributor triage automation to build long-term maintainership capacity.
 
 **Don't:**
 - Never publish to the project's namespace (§8). This holds whether or not they are engaged.
