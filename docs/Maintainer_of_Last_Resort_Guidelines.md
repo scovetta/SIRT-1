@@ -347,7 +347,7 @@ A candidate steward should demonstrate:
 - **Continuity capacity.** Prefer an organization, a funded individual, or a small team with a bus factor above 1 over a single volunteer with no backup.
 - **Provenance and identity** you can stand behind (see vetting).
 - **Alignment** with coordinated disclosure, and the intent to run a real security process or accept help running one.
-
+- **Multi-stakeholder governance commitment.** To prevent vendor lock-in, candidate steward should commit to a multi-stakeholder governance structure or an established foundation incubation path.
 ### 7.3 Vetting: a security control, with `xz` as the reference threat
 
 - **Verify identity and history**: a real, checkable identity, contribution history, and references. Treat a brand-new persona offering to take over an abandoned high-value project as suspect, because that is the abandonment-exploitation pattern behind CVE-2024-3094.
